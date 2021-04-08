@@ -47,5 +47,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 tag_page_layout: tag_page
-tag_page_dir: tag
+tag_page_dir: tags
 tag_permalink_style: pretty
