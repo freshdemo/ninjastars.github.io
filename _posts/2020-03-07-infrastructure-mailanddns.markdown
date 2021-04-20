@@ -39,3 +39,4 @@ From a security perspective it is not a great idea to use an already built conta
 </code>
 <br>
 
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "3ff248322f9d497f8802ebf7d47130c1"}'></script><!-- End Cloudflare Web Analytics -->

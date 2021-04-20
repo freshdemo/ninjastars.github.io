@@ -96,3 +96,6 @@ From the Tools menu you will see "Activity last 24hr" on your rule. This is a hy
 </p>
 
 <img src="/images/ratelimiting-analytics.png">
+
+
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "3ff248322f9d497f8802ebf7d47130c1"}'></script><!-- End Cloudflare Web Analytics -->

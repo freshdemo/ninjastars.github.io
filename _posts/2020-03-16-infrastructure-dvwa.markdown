@@ -45,3 +45,6 @@ Get it here, <a href="https://github.com/digininja/DVWA" target="_blank">https:/
 You can easily interpret the Dockerfile to deploy all of the software and configurations manually on a host.
 </p>
 <br>
+
+
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "3ff248322f9d497f8802ebf7d47130c1"}'></script><!-- End Cloudflare Web Analytics -->

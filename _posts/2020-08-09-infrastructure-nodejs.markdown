@@ -29,3 +29,4 @@ To run the container;
 The container details can be found here, <a href="https://github.com/freshdemo/node-simple-rce" target="_blank">https://github.com/freshdemo/node-simple-rce</a>
 </p>
 
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "3ff248322f9d497f8802ebf7d47130c1"}'></script><!-- End Cloudflare Web Analytics -->

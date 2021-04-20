@@ -34,3 +34,5 @@ Each post should be tagged with one of the following, which are alingned with <a
     <li>exfiltration
     <li>impact
  
+
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "3ff248322f9d497f8802ebf7d47130c1"}'></script><!-- End Cloudflare Web Analytics -->
