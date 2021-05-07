@@ -3,7 +3,7 @@ layout: post
 title:  "DNS Subdomain Data Exfiltration"
 date:   2020-06-03 15:43:25 -0400
 categories: exfiltration 
-tags: dnssecurity
+tags: gateway bypass
 ---
 <p>
 Once an environment has been compromised and the adversary finds some desirable data the data needs to be removed from the network. In this use case we will assume that common protocols like FTP and SSH are heavily restricted on egress traffic (as they should be). One way to move the data is to encode it, making it harder to identify, then split it up into chunks, and apply those chunks as subdomains. So when we even resolve these subdomains they go to the adversary who can stitch them back together and decode them.i

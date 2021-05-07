@@ -3,7 +3,7 @@ layout: post
 title:  "Application Firewall Bypass over DNS (iodine)"
 date:   2020-08-03 10:43:25 -0400
 categories: exfiltration 
-tags: gateway
+tags: gateway bypass
 ---
 <p>
 Sometimes the adversary is behind a security stack and needs to bypass that stack for one reason or another. Also once an environment has been compromised and the adversary finds some desirable data, the data needs to be removed from the network. In this use case we will assume that common protocols like FTP and SSH are heavily restricted on egress traffic (as they should be). 
