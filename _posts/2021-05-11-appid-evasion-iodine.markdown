@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Application Firewall Bypass over DNS (iodine)"
-date:   2020-08-03 10:43:25 -0400
+date:   2021-05-11 10:43:25 -0400
 categories: exfiltration 
 tags: gateway bypass
 ---

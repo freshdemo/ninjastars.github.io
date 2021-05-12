@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "DNS Subdomain Data Exfiltration"
-date:   2020-06-03 15:43:25 -0400
+title:  "DNS Data Exfiltration (encoded subdomains)"
+date:   2021-04-03 15:43:25 -0400
 categories: exfiltration 
 tags: gateway bypass
 ---

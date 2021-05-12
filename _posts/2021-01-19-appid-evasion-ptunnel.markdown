@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Application Firewall Data Exfiltration over UDP (ptunnel)"
-date:   2020-09-01 12:21:16 -0400
+date:   2021-19-01 12:21:16 -0400
 categories: exfiltration 
 tags: gateway bypass
 ---
