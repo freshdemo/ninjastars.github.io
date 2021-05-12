@@ -16,23 +16,8 @@ One of the other things we intend to provide is immutible infrastructure so that
 </p>
 
 <p>
-Each post should be tagged with one of the following, which are alingned with <a href="https://attack.mitre.org/" taget="_blank">Mitre Att&ck</a>. The <a href="/categories/">categories</a> link in the top right corner will bring you to them quickly.
+Each post should be labelled with a <a href="/categories/">Category</a> and <a href="/tag/">Tag</a>. Categories are alingned with <a href="https://attack.mitre.org/" taget="_blank">Mitre Att&ck</a>. Tags map each post to individual solutions. This way you could stack a bunch of Gateway ninja stars together for a more robust attack.
 </p>
 
-<ul>
-    <li>infrastructure - any systems that will facilitate transmitting the attacks.
-    <li>initialaccess
-    <li>execution
-    <li>persistence
-    <li>privilegeescalation
-    <li>defenseevasion
-    <li>credentialaccess
-    <li>discovery
-    <li>lateralmovement
-    <li>collection
-    <li>commandandcontrol
-    <li>exfiltration
-    <li>impact
- 
 
 <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "3ff248322f9d497f8802ebf7d47130c1"}'></script><!-- End Cloudflare Web Analytics -->
