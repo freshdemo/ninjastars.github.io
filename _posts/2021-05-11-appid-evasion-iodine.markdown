@@ -132,16 +132,3 @@ Search the web for what's my IP and you will see that it is now the public IP of
 
 <img src="/images/iodine-ip.png">
 
-<!--
-<h3>Step 5 - View the Results</h3>
-
-
-<p>
-Looking at the following NGFW log we can see that the NGFW permitted the session. That being said there were three opportunities so far that it could have prevented this traffic; The application was identified as tcp-over-dns where all you would want is DNS at most, then there were two spyware signatures identified as "Yourfreedom Command and Control" and "Iodine DNS Tunnel Tool Command and Control".
-</p>
-<br>
-<br>
-<img src="/images/appid-evasion-iodinengfw.png" alt="ngfw">
-
--->
-

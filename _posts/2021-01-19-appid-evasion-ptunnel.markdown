@@ -131,22 +131,3 @@ In your web browser preferences search for proxy. Then configure it to use a SOC
 From here if you search for what's my IP you will find that the IP address is that of the public interface of the ptunnel server.
 </p>
 
-<!--
-<h3>Step 5 - View the Results</h3>
-
-<p>
-Check back in on the NGFW to see how it interpretted this session.
-</p>
-
-<p>
-From this one we can see that there were two alerts. One of them was a traffic log that shows traffic going over UDP port 53. The application is unknown-udp. While this is not ideal it's better to be designated as unknown-tcp which you should be working to manage out of your ruleset than misidentified as DNS or something else. You can also see that the traffic amounted to 5.3M which was me visiting a couple of websites. Also important to note that you won't see this log until the session is ended by default.
-</p>
-
-<p>
-The second alert is an IPS alert indicating that there was non-compliant DNS traffic. These two things together are a good indicated that someone is tunneling and is reason to adjust policy.
-</p>
-
-<img src="/images/appid-evasion-ptunnelresults.png">
-<br>
-<br>
--->

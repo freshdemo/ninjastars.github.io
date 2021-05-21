@@ -40,11 +40,11 @@ The client may not provide a lot of output because all it has to do is try to re
 </p>
 
 <p>
-Looking at the following NGFW log we can see that the NGFW prevented the session. It determined that the traffic is attempting to tunnel data in DNS and sinkholed the session. Sinkholing means that the DNS resolution response was modified in transit so that the client doesn't even receive the malicious IP address.
+Looking at the following log we can see that the solution prevented the session. It determined that the traffic is attempting to tunnel data in DNS and sinkholed the session. Sinkholing means that the DNS resolution response was modified in transit so that the client doesn't even receive the malicious IP address.
 </p>
 <br>
 <br>
-<img src="/images/exfiltration-dnstunneling-subdomain.png" alt="ngfw">
+<img src="/images/exfiltration-dnstunneling-subdomain.png">
 
 
 
